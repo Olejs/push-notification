@@ -1,0 +1,13 @@
+{
+    "name": "Olejs/push-notification",
+    "description": "Laravel package to send push notification across all platforms",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["laravel"],
+    "require": {},
+    "autoload": {
+	    "psr-4": {
+	        "DeveloperDynamo\\PushNotification\\": "src/"
+	    }
+	}
+}
